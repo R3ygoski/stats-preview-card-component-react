@@ -24,7 +24,7 @@ export default function App() {
       <main className='flex flex-col font-interFont bg-darkDesaturatedBlue  rounded-lg w-10/12 my-24 dt:flex-row-reverse'>
 
         <figure className='w-full h-56 relative dt:h-auto dt:w-6/12'>
-          <div className='w-full h-full bg-[url("/images/image-header-mobile.jpg")] bg-cover bg-center bg-no-repeat rounded-t-lg dt:bg-[url("/images/image-header-desktop.jpg")] dt:rounded-tl-none dt:rounded-r-lg'/>
+          <div className='w-full h-full bg-[url("./images/image-header-mobile.jpg")] bg-cover bg-center bg-no-repeat rounded-t-lg dt:bg-[url("./images/image-header-desktop.jpg")] dt:rounded-tl-none dt:rounded-r-lg'/>
           <div className='bg-softViolet w-full h-full absolute top-0 rounded-t-lg opacity-40 dt:rounded-r-lg dt:rounded-tl-none '></div>
         </figure>
 
