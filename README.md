@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-card-made-with-react-and-tailwindcss-sFDY24RWtC)
+- Live Site URL: [Github](https://r3ygoski.github.io/stats-preview-card-component-react/)
 
 ## My process
 
